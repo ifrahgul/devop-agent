@@ -25,8 +25,6 @@ def safe_datetime_conversion(series):
 
     return converted
 
-
-# --- Sidebar Controls ---
 st.sidebar.title("⚙️ Settings")
 use_ai = st.sidebar.toggle("🤖 Enable AI Assistance", value=True)
 max_ai_calls = st.sidebar.slider("Max AI Calls", 1, 20, 5)
@@ -111,9 +109,7 @@ if log_lines:
                 )
             ]
 
-        # ---------------------------
-        # SUMMARY METRICS
-        # ---------------------------
+    
 
         st.markdown("### 📌 Summary Metrics")
         col1, col2, col3 = st.columns(3)
