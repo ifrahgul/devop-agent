@@ -24,14 +24,15 @@ Run the analyzer:
 python analyzer.py
 Output includes:
 
-1.List of detected errors
+ - List of detected errors
 
-2.Error summary table
+ - Error summary table
 
-3.Suggestions for troubleshooting
+ - Suggestions for troubleshooting
 
-and then:
+ and then:
 
 streamlit run app.py to run your app in browser on local host: http://localhost:8501
+
 
 
