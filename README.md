@@ -1,4 +1,4 @@
-# 🚀 DevOps Log Analyzer Pro
+# 🚀 DevOps Log Analyzer 
 
 **DevOps Log Analyzer Pro** is a Python-based tool designed to help DevOps engineers, developers, and IT teams efficiently analyze log files. It detects errors, summarizes them, and provides actionable suggestions to speed up troubleshooting and incident resolution.
 
@@ -33,6 +33,7 @@ Output includes:
  and then:
 
 streamlit run app.py to run your app in browser on local host: http://localhost:8501
+
 
 
 
