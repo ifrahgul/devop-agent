@@ -20,8 +20,11 @@ Windows
 venv\Scripts\activate
 
 4. Usage
+
 Run the analyzer:
+
 python analyzer.py
+
 Output includes:
 
  - List of detected errors
@@ -33,6 +36,7 @@ Output includes:
  and then:
 
 streamlit run app.py to run your app in browser on local host: http://localhost:8501
+
 
 
 
