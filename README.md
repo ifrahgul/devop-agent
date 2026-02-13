@@ -13,10 +13,14 @@
 - **Handles Large Logs** – Optimized for processing large log files efficiently.
 
 2. Create a virtual environment (recommended):
+
 python -m venv venv
 
+
 3. Activate the virtual environment:
-Windows
+
+Windows:
+
 venv\Scripts\activate
 
 4. Usage
@@ -30,6 +34,7 @@ Output includes:
  - Error summary table
 
  - Suggestions for troubleshooting
+
 
 
 
