@@ -6,7 +6,7 @@ ERROR_PATTERNS = {
     "Timeout Error": [r"timeout", r"timed out", r"connection lost"],
     "Disk Full": [r"disk full", r"No space left on device"],
     "Permission Denied": [r"Permission denied", r"Access is denied"],
-    "Unknown system error": [r".*"]  # fallback pattern
+    "Unknown system error": [r".*"]  
 }
 
 def determine_confidence(pattern_matched):
