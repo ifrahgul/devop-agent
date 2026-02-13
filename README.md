@@ -20,7 +20,7 @@
 
   - Windows:
 
-   **venv\Scripts\activate**
+     **venv\Scripts\activate**
 
  4. Usage
 
@@ -33,6 +33,7 @@
  - Error summary table
 
  - Suggestions for troubleshooting
+
 
 
 
