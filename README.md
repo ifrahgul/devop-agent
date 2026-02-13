@@ -18,21 +18,22 @@
 
 3. Activate the virtual environment:
 
- - Windows:
+  - Windows:
 
-  **venv\Scripts\activate**
+   **venv\Scripts\activate**
 
-4. Usage
+ 4. Usage
 
-streamlit run app.py to run your app in browser on local host: http://localhost:8501
+  streamlit run app.py to run your app in browser on local host: http://localhost:8501
 
-Output includes:
+  Output includes:
 
  - List of detected errors
 
  - Error summary table
 
  - Suggestions for troubleshooting
+
 
 
 
